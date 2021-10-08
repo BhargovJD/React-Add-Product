@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Add-Product/static/css/main.40a6f825.chunk.css",
+    "main.js": "/React-Add-Product/static/js/main.d9848ee1.chunk.js",
+    "main.js.map": "/React-Add-Product/static/js/main.d9848ee1.chunk.js.map",
+    "runtime-main.js": "/React-Add-Product/static/js/runtime-main.79b7fd83.js",
+    "runtime-main.js.map": "/React-Add-Product/static/js/runtime-main.79b7fd83.js.map",
+    "static/js/2.e390193a.chunk.js": "/React-Add-Product/static/js/2.e390193a.chunk.js",
+    "static/js/2.e390193a.chunk.js.map": "/React-Add-Product/static/js/2.e390193a.chunk.js.map",
+    "static/js/3.9aeece52.chunk.js": "/React-Add-Product/static/js/3.9aeece52.chunk.js",
+    "static/js/3.9aeece52.chunk.js.map": "/React-Add-Product/static/js/3.9aeece52.chunk.js.map",
+    "index.html": "/React-Add-Product/index.html",
+    "static/css/main.40a6f825.chunk.css.map": "/React-Add-Product/static/css/main.40a6f825.chunk.css.map",
+    "static/js/2.e390193a.chunk.js.LICENSE.txt": "/React-Add-Product/static/js/2.e390193a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79b7fd83.js",
+    "static/js/2.e390193a.chunk.js",
+    "static/css/main.40a6f825.chunk.css",
+    "static/js/main.d9848ee1.chunk.js"
+  ]
+}
